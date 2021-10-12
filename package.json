@@ -1,0 +1,8 @@
+{
+  "name": "create-react-ui-zerotohero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nutsjian/create-react-ui-zerotohero.git",
+  "author": "nuts.jian@gmail.com",
+  "license": "MIT"
+}
